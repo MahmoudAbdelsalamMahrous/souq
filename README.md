@@ -1,6 +1,7 @@
 <h1 align="center">E-Commerce Store 🛒</h1>
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MahmoudAbdelsalamMahrous/souq/main/frontend/public/main.png" width="800" />
+</p>
 About:
 
 -   🚀 Project Setup
